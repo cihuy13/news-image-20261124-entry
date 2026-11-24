@@ -1,7 +1,13 @@
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/cihuy13/news-image-20261124-entry/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/cihuy13/news-image-20261124-entry/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 # The World in One Image — Tuesday 24 November 2026
 
 Entry for the make.fun bounty **news-image-20261124**: sum up the world's
-news of Tuesday 24 November 2026 in one image.
+news of Tuesday 24 November 2026 in one image — see
+[https://make.fun/bounty/news-image-20261124](https://make.fun/bounty/news-image-20261124).
+Referral code: g6ge6qw0.
 
 `main.py` is a single-file, standard-library-only Python program. It draws a
 1024×1024 newspaper front page — masthead, one big hero story, six

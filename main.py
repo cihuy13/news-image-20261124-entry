@@ -593,7 +593,7 @@ MEDIUM = [
     ("LIBYA • WAR", "UKRAINE HITS RUSSIAN SHIP OFF LIBYA; TRIPOLI DEMANDS ANSWERS",
      "Kyiv says drones struck the warship; Libya wants an explanation.",
      scene_libya),
-    ("ASIA • LAW", "14 NATIONS BACK ICJ RULING: MYANMAR GENOCIDE OF ROHINGYA",
+    ("ASIA • LAW", "14 NATIONS BACK ICJ RULING ON ROHINGYA GENOCIDE",
      "UK sanctions junta leaders as the court verdict wins global backing.",
      scene_icj),
     ("ASIA • QUAKE", "5.6 QUAKE SHAKES NEPAL NEAR CHINA BORDER",
